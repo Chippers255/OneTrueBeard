@@ -7,6 +7,6 @@
   "permissions"      : ["tabs", "http://*/*"],
   "content_scripts"  : [{
       "matches" : ["http://*/*"],
-      "js"      : ["onetruebeard.js"]
+      "js"      : ["jquery.js","onetruebeard.js"]
   }]
 }
