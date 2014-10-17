@@ -1,7 +1,7 @@
 {
   "manifest_version" : 2,
   "name"             : "One True Beard",
-  "version"          : "2.0",
+  "version"          : "2.1",
   "description"      : "This extension will turn every image into Earl.",
   "author"           : "Thomas Nelson",
   "icons"            : {
