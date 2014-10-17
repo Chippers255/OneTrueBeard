@@ -9,9 +9,9 @@
       "48"  : "icon48.png",
       "128" : "icon128.png"
   },
-  "permissions"      : ["tabs", "http://*/*"],
+  "permissions"      : ["tabs", "*://*/*"],
   "content_scripts"  : [{
-      "matches" : ["http://*/*"],
+      "matches" : ["*://*/*"],
       "js"      : ["jquery.js","onetruebeard.js"]
   }]
 }
